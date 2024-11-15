@@ -8,7 +8,7 @@ Welcome to my GitHub page! I'm a passionate Software Engineering MS student at S
 - 🔭 I’m currently working on integrating GPT models into dynamic web applications to enhance user interactions.
 - 🌱 I’m currently learning advanced TypeScript features and exploring AI integration in frontend development.
 - 👯 I’m looking to collaborate on open-source projects that focus on AI-driven web solutions.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/armaghan-abtahi/) or via email at [your_email@example.com](mailto:your_email@example.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/armaghan-abtahi/) or via email at [your_email@example.com](mailto:armaghanabtahi@gmail.com)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a background in electrical engineering, which gives me a unique perspective on software development.
 
@@ -30,17 +30,18 @@ Here are some of the technologies and tools I use:
 
 
 ### API Testing ###
-![Postman](https://img.shields.io/badge/Postman-grey?style=for-the-badge&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 
 ### Styling and Design ###
-![CSS3](https://img.shields.io/badge/CSS3-grey?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-grey?style=for-the-badge&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Infrastructure ###
-![AWS](https://img.shields.io/badge/AWS-grey?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-grey?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
 
 <p align="center"> 
 <br>
