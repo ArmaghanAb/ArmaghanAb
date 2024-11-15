@@ -16,10 +16,12 @@ Welcome to my GitHub page! I'm a passionate Software Engineering MS student at S
 </p>
 
 ## Quick Facts ##
-- 😁 Pronouns: she/her  
-- 🎓 Education: Hold a BSC and a MSc in Electrical Engineering, and currently pursuing another MSc in Software Engineering  
-- 🌱 Currently learning: AI integration, GPT models, and full-stack development  
-- 📖 Fun Fact: I love exploring the intersections of AI and software engineering to build impactful applications
+- 🔭 I’m currently working on integrating GPT models into dynamic web applications to enhance user interactions.
+- 🌱 I’m currently learning advanced TypeScript features and exploring AI integration in frontend development.
+- 👯 I’m looking to collaborate on open-source projects that focus on AI-driven web solutions.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/armaghan-abtahi/) or via email at [your_email@example.com](mailto:your_email@example.com)
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I have a background in electrical engineering, which gives me a unique perspective on software development.
 
 ## Tech Badges ##
 Here are some of the technologies and tools I use:
