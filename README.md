@@ -1,6 +1,4 @@
-![Banner](https://github.com/ArmaghanAb/ArmaghanAb/raw/main/baner.png)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8F50A4&background=47474700&width=435&lines=Hi!+I'm+Armaghan+Abtahi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=C83B50&background=47474700&width=435&lines=Hi!+I'm+Armaghan+Abtahi)](https://git.io/typing-svg)
 
 
 Welcome to my GitHub page! I'm a passionate Software Engineering MS student at San Jose State University, specializing in frontend development with React and JavaScript. With a background in electrical engineering, I bring a unique perspective to building high-performance, user-centric web applications. Currently, I'm exploring AI integration in web development and working on projects involving GPT models.
