@@ -2,9 +2,10 @@
 
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Armaghan ;This+is..;..my+Github..;" alt="Typing SVG"/>
+        [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Jetbrains+Mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Armaghan;This+is..;..my+Github..)](https://git.io/typing-svg)
     </h1>
 </div>
+
 Welcome to my GitHub page! I'm a passionate Software Engineering MS student at San Jose State University, specializing in frontend development with React and JavaScript. With a background in electrical engineering, I bring a unique perspective to building high-performance, user-centric web applications. Currently, I'm exploring AI integration in web development and working on projects involving GPT models.
 
 
