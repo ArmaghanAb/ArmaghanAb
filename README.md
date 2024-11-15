@@ -1,10 +1,5 @@
-[![@ArmaghanAb's Holopin board](https://holopin.me/yourusername)](https://holopin.io/@yourusername)
+![Banner](https://github.com/ArmaghanAb/ArmaghanAb/raw/main/banner.png)
 
-<div align="center">
-    <h1>
-        [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Jetbrains+Mono&size=20&duration=3000&color=33FF57&center=true&vCenter=true&width=435&lines=Hey..+I'm+Armaghan;This+is..;..my+Github..)](https://git.io/typing-svg)
-    </h1>
-</div>
 
 Welcome to my GitHub page! I'm a passionate Software Engineering MS student at San Jose State University, specializing in frontend development with React and JavaScript. With a background in electrical engineering, I bring a unique perspective to building high-performance, user-centric web applications. Currently, I'm exploring AI integration in web development and working on projects involving GPT models.
 
