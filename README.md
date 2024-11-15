@@ -1,19 +1,12 @@
 [![@ArmaghanAb's Holopin board](https://holopin.me/yourusername)](https://holopin.io/@yourusername)
 
-## Hello, I'm Armaghan Abtahi 👋
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Armaghan ;This+is..;..my+Github..;" alt="Typing SVG"/>
+    </h1>
+</div>
 Welcome to my GitHub page! I'm a passionate Software Engineering MS student at San Jose State University, specializing in frontend development with React and JavaScript. With a background in electrical engineering, I bring a unique perspective to building high-performance, user-centric web applications. Currently, I'm exploring AI integration in web development and working on projects involving GPT models.
 
-
-<p align="center"> 
-<a href="https://www.linkedin.com/in/armaghan-abtahi/" alt="LinkedIn">
-        <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your_email@example.com" alt="Email">
-        <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<br><br>
-<img src="https://streak-stats.demolab.com?user=yourusername&theme=github-light&hide_border=true&date_format=%5BY%20%5DM%20j"/>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact" /> 
-</p>
 
 ## Quick Facts ##
 - 🔭 I’m currently working on integrating GPT models into dynamic web applications to enhance user interactions.
