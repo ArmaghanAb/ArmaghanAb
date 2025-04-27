@@ -10,7 +10,8 @@ Welcome to my GitHub page! I'm a passionate Software Engineering MS student at S
 - 👯 I’m looking to collaborate on open-source projects that focus on AI-driven web solutions.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/armaghan-abtahi/) or via email at [armaghanabtahi@gmail.com](mailto:armaghanabtahi@gmail.com)
 - ⚡ Pronouns: she/her
-- 😄 Fun fact: I have a background in electrical engineering, which gives me a unique perspective on software development.
+- 🛤️ My Journey: I have a background in electrical engineering, which gives me a unique perspective on software development.
+- 🌸 Born on the first day of spring! 
 
 ## Tech Badges ##
 Here are some of the technologies and tools I use:
