@@ -44,9 +44,9 @@ Here are some of the technologies and tools I use:
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
-<p align="center"> 
-<br>
-<img src="https://profile-counter.glitch.me/ArmaghanAb/count.svg" />
-<br>
-<strong>Visitor Count</strong>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote"/>
 </p>
+
+
+
