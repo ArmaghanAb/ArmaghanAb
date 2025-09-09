@@ -46,7 +46,7 @@ Here are some of the technologies and tools I use:
 
 <p align="center"> 
 <br>
-<img src="https://profile-counter.glitch.me/yourusername/count.svg" />
+<img src="https://profile-counter.glitch.me/ArmaghanAb/count.svg" />
 <br>
 <strong>Visitor Count</strong>
 </p>
